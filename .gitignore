@@ -1,15 +1,29 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
+# Build Folders (All Modules)
 /build
+**/build/
+**/build/generated/ksp/
+
+# IDE and Tooling
+.idea/
+.kotlin/
+.gradle/
+*.iml
+*.ipr
+*.iws
+
+# Local configuration
+local.properties
+
+# Captures and Native
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+
+# AI/Gemini Artifacts (Optional: keep if you want to share plans)
+#.artifacts/
