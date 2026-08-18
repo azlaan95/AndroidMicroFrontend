@@ -1,0 +1,1 @@
+com.azl.microfrontend.feature.onboarding

@@ -1,0 +1,1 @@
+com.azl.microfrontend.core.datastore
